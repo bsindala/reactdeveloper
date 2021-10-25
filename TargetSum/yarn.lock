@@ -4247,6 +4247,11 @@
   "resolved" "https://registry.npmjs.org/lodash.debounce/-/lodash.debounce-4.0.8.tgz"
   "version" "4.0.8"
 
+"lodash.shuffle@^4.2.0":
+  "integrity" "sha1-FFtQU8+HX29cKjP0i26ZSMbse0s="
+  "resolved" "https://registry.npmjs.org/lodash.shuffle/-/lodash.shuffle-4.2.0.tgz"
+  "version" "4.2.0"
+
 "lodash.throttle@^4.1.1":
   "integrity" "sha1-wj6RtxAkKscMN/HhzaknTMOb8vQ="
   "resolved" "https://registry.npmjs.org/lodash.throttle/-/lodash.throttle-4.1.1.tgz"
@@ -5296,10 +5301,10 @@
     "jscodeshift" "^0.11.0"
     "nullthrows" "^1.1.1"
 
-"react-native@*", "react-native@0.66.0":
-  "integrity" "sha512-m26TKwzsfHVdZ1hDG+7mZ4M4ftxFFZrhtiT0OXuwfBzmNtB3xhsJtYszPeizw33c9YNp8rvehKT3c4ldDCW6kA=="
-  "resolved" "https://registry.npmjs.org/react-native/-/react-native-0.66.0.tgz"
-  "version" "0.66.0"
+"react-native@*", "react-native@0.66.1":
+  "integrity" "sha512-BBvytmqlOLL+bRcO0jBiYfg16lYRsYDOC8/5E+bpnhb3EGtU+YCQAYfszw6JL7Hfy0ftnQNP5yj8pt+vqMHXIA=="
+  "resolved" "https://registry.npmjs.org/react-native/-/react-native-0.66.1.tgz"
+  "version" "0.66.1"
   dependencies:
     "@jest/create-cache-key-function" "^27.0.1"
     "@react-native-community/cli" "^6.0.0"
